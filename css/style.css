@@ -1,0 +1,22 @@
+html,
+body,
+header,
+#intro {
+    height: 100%;
+}
+
+#intro {
+    background: url("../img/chuttersnap-1252198-unsplash-min.jpg")no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+#projects {
+  padding: 40px;
+}
+
+/* footer {
+  background-color: rgba(255, 0, 0, 0.6);
+} */
