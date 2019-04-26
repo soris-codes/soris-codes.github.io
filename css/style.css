@@ -3,10 +3,12 @@ body,
 header,
 #intro {
     height: 100%;
+    background-color:#e3eaef;
+    color: #282828;
 }
 
 #intro {
-    background: url("../img/chuttersnap-1252198-unsplash-min.jpg")no-repeat center center fixed;
+    background: url("../img/ray-hennessy-328617-unsplash-min.jpg")no-repeat center center fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -15,6 +17,10 @@ header,
 
 #projects {
   padding: 40px;
+}
+
+.accent-color {
+  background-color:#f19335;
 }
 
 /* footer {
