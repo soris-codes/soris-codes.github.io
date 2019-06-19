@@ -4,7 +4,7 @@ header,
 #intro {
     height: 100%;
     background-color: lightgray;
-    color: #282828;
+    color: #292e3a;
 }
 
 #intro {
@@ -17,17 +17,22 @@ header,
 
 #projects {
   padding: 20px;
+  margin-bottom: 60px;
 }
 
 .accent-color {
   background-color:#f19335;
 }
 
+.bar {
+  height: 20px;
+}
+
 .accent-text {
   color:#f19335;
 }
 
-.secondary-accent-text {
+.title-text {
   font-family: 'Lobster';
   font-size: 4em;
 }
@@ -39,7 +44,6 @@ header,
 #about {
   padding-bottom: 60px; 
   padding-top: 40px;
-  margin-top: 40px;
 }
 
 .profile-img {
