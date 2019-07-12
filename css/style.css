@@ -2,17 +2,17 @@ html,
 body,
 header,
 #intro {
-    height: 100%;
-    background-color: lightgray;
-    color: #292e3a;
+  height: 100%;
+  background-color: lightgray;
+  color: #292e3a;
 }
 
 #intro {
-    background: url("../img/ray-hennessy-328617-unsplash-min.jpg")no-repeat center center fixed;
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
-    background-size: cover;
+  background: url("../img/ray-hennessy-328617-unsplash-min.jpg")no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
 }
 
 #projects {
@@ -21,7 +21,7 @@ header,
 }
 
 .accent-color {
-  background-color:#f19335;
+  background-color: #f19335;
 }
 
 .bar {
@@ -29,7 +29,7 @@ header,
 }
 
 .accent-text {
-  color:#f19335;
+  color: #f19335;
 }
 
 .title-text {
@@ -37,14 +37,22 @@ header,
   font-size: 4em;
 }
 
-.secondary-accent, #about {
+.secondary-accent,
+#about,
+#contact {
   background-color: #6c7795;
+  color: #fff;
 }
 
 #about {
-  padding-bottom: 60px; 
+  padding-bottom: 60px;
   padding-top: 40px;
 }
+
+#about p {
+  font-size: 1.1rem;
+}
+
 
 .profile-img {
   border-radius: 50%;
