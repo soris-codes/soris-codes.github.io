@@ -1,6 +1,8 @@
-
+.DS_Store
 /node_modules
 
 # ignore all logs
 *.log
+
+
 
