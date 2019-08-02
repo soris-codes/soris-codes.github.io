@@ -4,5 +4,6 @@
 # ignore all logs
 *.log
 
-
+# VSCode
+.vscode/
 
